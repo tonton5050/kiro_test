@@ -1,3 +1,3 @@
 # kiro_test
-QRコード生成Webアプリの仕様をkiroを用いて要件定義＋設計＋タスク分解
+QRコード生成Webアプリの仕様をkiroを用いて要件定義＋設計＋タスク分解  
 実装はClaudeCodeで実施
